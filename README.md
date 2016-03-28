@@ -10,3 +10,7 @@ def getstock():
 fundamental.s.ak
 
 ```
+同时我们也可以试试公式编辑功能
+$$
+\sum_{x=1}^{i=1}=
+$$
